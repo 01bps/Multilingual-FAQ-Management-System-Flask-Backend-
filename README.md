@@ -1,6 +1,3 @@
-## Backend Intern Task - Progress Checklist  
-
-This repository contains the implementation of the **backend intern hiring task** using Flask. Below is a **step-by-step checklist** to track progress.
 
 ---
 
