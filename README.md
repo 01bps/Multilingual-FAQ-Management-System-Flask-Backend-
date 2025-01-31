@@ -4,9 +4,9 @@
 ##  Task Checklist  
 
 ###  1. Model Design  
-- [ ] Create an **FAQ model** using SQLAlchemy.  
-- [ ] Add fields: `question`, `answer`, `question_hi`, `question_bn`, etc.  
-- [ ] Implement a method to retrieve **translated text dynamically**.  
+- [X] Create an **FAQ model** using SQLAlchemy.  
+- [X] Add fields: `question`, `answer`, `question_hi`, `question_bn`, etc.  
+- [X] Implement a method to retrieve **translated text dynamically**.  
 
 ###  2. WYSIWYG Editor Integration  
 - [ ] Integrate **Flask-CKEditor** for rich text formatting in the FAQ answers.  
